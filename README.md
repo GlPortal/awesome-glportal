@@ -4,4 +4,4 @@
 
 ## Resources
 - [yo-glportal](https://github.com/GlPortal/yo-glportal) – Code generator for GlPortal
-- [map-editor](hhttps://github.com/GlPortal/map_editor) – Map Editor for GlPortal
+- [map-editor](https://github.com/GlPortal/map_editor) – Map Editor for GlPortal
