@@ -4,5 +4,6 @@
 
 ## Resources
 - [specification](https://github.com/GlPortal/specification) – Game and Engine specification for GlPortal
+- [game](https://github.com/GlPortal/glPortal) – Game and Engine for GlPortal
 - [yo-glportal](https://github.com/GlPortal/yo-glportal) – Code generator for GlPortal
 - [map-editor](https://github.com/GlPortal/map_editor) – Map Editor for GlPortal
